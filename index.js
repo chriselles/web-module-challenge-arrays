@@ -46,6 +46,8 @@ function is31Flavors(/*code here*/){
 
 }
 
+//TEST CHRIS ELLES TEST
+
 /* Task 2: Corporate has come to you with an idea for a new flavor: Rainbow Sherbert! They think this will be a game changer. You need to modify the array to include this flavor. 
 
 Your function should accept:
