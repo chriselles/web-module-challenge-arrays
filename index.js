@@ -71,7 +71,7 @@ Your function should remove a flavor from the end of the array and console.log t
 
 For example removeLastFlavor(originalFlavors) would return ["Rainbow Sherbert", "Banana Nut Fudge",..."Vanilla"]*/ 
 
-originalFlavors.slice(-32)
+originalFlavors.slice(-32);
 
 /* Task 4: Write a function that returns a flavor at a given index in the array.
 
@@ -101,7 +101,7 @@ Hint: You can use .splice() for this
 
 */
 
-function originalFlavors.splice(0,1, "New Flavor" )
+function originalFlavors.splice(0,1, "New Flavor" );
 
 
 /* Task 6: With all of these changes going on, we don't want to lose track of the actual, original 31 flavors. Write a function called copy that makes a copy of the array. 
