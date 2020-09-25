@@ -66,7 +66,8 @@ function addFlavor(flavor, array){
     array.unshift(flavor);  
     return array;           
 }
-console.log(addFlavor("Rainbow Sherbert", originalFlavors))
+addFlavor("Rainbow Sherbert", originalFlavors);
+/* console.log(originalFlavors); */ 
 
 /* Task 3: Houston, we have a problem! There are now 32 flavors in the array! Your task is to remove an item from the end of the array. 
 
